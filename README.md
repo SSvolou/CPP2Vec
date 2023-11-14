@@ -3,8 +3,8 @@ CPP2Vec is a Word2Vec-based CPP prediction method, designed for handling: CPP-Cl
 
 ## Requirements
 The scripts are written in Python 3.8.8 (Anaconda Version==4.11.0) and run on Ubuntu 18.04.6 LTS (GNU/Linux 5.10.0-23-amd64 x86_64).
-
--To construct our proposed models we utilised the following Python packages:
+```
+- To construct our proposed models we utilised the following Python packages:
 ```
 numpy==1.23.5
 pandas==1.5.2
