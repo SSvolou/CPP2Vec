@@ -16,10 +16,9 @@ matplotlib==3.6.2
 notebook==6.5.2
 Pillow==9.3.0
 gensim==4.0.1
-
 ```
 ## Table of Contents
 - ./Data: the processed datasets that we used in our study.
-- ./Proposed models: all the models (Word2Vec and Machine Learning) we propose to predict unseen peptides.
-- ./Notebooks: Jupyter notebooks that can be used to evaluate our proposed models.
-- ./Results: inludes the calculated evaluation metrics and PCA plots for Validation and Test Datasets.
+- ./Proposed models: all the models (Word2Vec and Machine Learning) we propose to predict unknown CPP sequences.
+- ./Notebooks: Jupyter notebooks that can be used to evaluate our proposed trained models.
+- ./Results: includes the calculated evaluation metrics and PCA plots for Validation and Test Datasets.
