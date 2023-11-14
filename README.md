@@ -3,7 +3,7 @@ CPP2Vec is a Word2Vec-based CPP prediction method, designed for handling: CPP-Cl
 
 ## Requirements
 The scripts are written in Python 3.8.8 (Anaconda Version==4.11.0) and run on Ubuntu 18.04.6 LTS (GNU/Linux 5.10.0-23-amd64 x86_64).
-```
+
 - To construct our proposed models we utilised the following Python packages:
 ```
 numpy==1.23.5
@@ -18,3 +18,8 @@ Pillow==9.3.0
 gensim==4.0.1
 
 ```
+## Table of Contents
+- ./Data: the processed datasets that we used in our study.
+- ./Proposed models: all the models (Word2Vec and Machine Learning) we propose to predict unseen peptides.
+- ./Notebooks: Jupyter notebooks that can be used to evaluate our proposed models.
+- ./Results: inludes the calculated evaluation metrics and PCA plots for Validation and Test Datasets.
