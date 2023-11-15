@@ -22,3 +22,4 @@ gensim==4.0.1
 - ./Proposed models: all the models (Word2Vec and Machine Learning) we propose to predict unknown CPP sequences based on the task that is studied (CPP-Classification, Uptake-Efficiency and/or PMO-Delivery).
 - ./Notebooks: Jupyter notebooks that can be used to evaluate our proposed trained models.
 - ./Results: includes the calculated evaluation metrics and PCA plots for Validation and Test Datasets.
+- ./Custom Scripts: contains Python Scripts that we used to construct and evaluate our proposed models.
