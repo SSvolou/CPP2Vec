@@ -1,0 +1,53 @@
+@article{pandey2018,
+  title={KELM-CPPpred: Kernel extreme learning machine based prediction model for cell-penetrating peptides},
+  author={Pandey, Poonam and Patel, Vinal and George, Nithin V and Mallajosyula, Sairam S},
+  journal={Journal of proteome research},
+  volume={17},
+  number={9},
+  pages={3214--3222},
+  year={2018},
+  publisher={ACS Publications}
+}
+
+@article{gautam2013,
+  title={In silico approaches for designing highly effective cell penetrating peptides},
+  author={Gautam, Ankur and Chaudhary, Kumardeep and Kumar, Rahul and Sharma, Arun and Kapoor, Pallavi and Tyagi, Atul and Open source drug discovery consortium info@ osdd. net and Raghava, Gajendra PS},
+  journal={Journal of translational medicine},
+  volume={11},
+  pages={1--12},
+  year={2013},
+  publisher={Springer}
+}
+
+@article{manavalan2018,
+  title={Machine-learning-based prediction of cell-penetrating peptides and their uptake efficiency with improved accuracy},
+  author={Manavalan, Balachandran and Subramaniyam, Sathiyamoorthy and Shin, Tae Hwan and Kim, Myeong Ok and Lee, Gwang},
+  journal={Journal of proteome research},
+  volume={17},
+  number={8},
+  pages={2715--2726},
+  year={2018},
+  publisher={ACS Publications}
+}
+
+@article{wolfe2018,
+  title={Machine learning to predict cell-penetrating peptides for antisense delivery},
+  author={Wolfe, Justin M and Fadzen, Colin M and Choo, Zi-Ning and Holden, Rebecca L and Yao, Monica and Hanson, Gunnar J and Pentelute, Bradley L},
+  journal={ACS central science},
+  volume={4},
+  number={4},
+  pages={512--520},
+  year={2018},
+  publisher={ACS Publications}
+}
+
+@article{sanders2011,
+  title={Prediction of cell penetrating peptides by support vector machines},
+  author={Sanders, William S and Johnston, C Ian and Bridges, Susan M and Burgess, Shane C and Willeford, Kenneth O},
+  journal={PLoS computational biology},
+  volume={7},
+  number={7},
+  pages={e1002101},
+  year={2011},
+  publisher={Public Library of Science San Francisco, USA}
+}
