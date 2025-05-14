@@ -1,6 +1,8 @@
 # CPP2Vec
 CPP2Vec is a Word2Vec-based prediction method for Cell-Penetrating Peptides. It has been designed to handle: CPP-Classification, Uptake-Efficiency and PMO-Delivery tasks.
 
+[![DOI](https://zenodo.org/badge/716505452.svg)](https://doi.org/10.5281/zenodo.15401028)
+
 ## Requirements
 The scripts are written in Python 3.8.8 (Anaconda Version==4.11.0) and run on Ubuntu 18.04.6 LTS (GNU/Linux 5.10.0-23-amd64 x86_64).
 
