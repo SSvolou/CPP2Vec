@@ -4,15 +4,15 @@ It has been designed to handle three different tasks:
 
 1. **CPP Classification** – Predict whether a peptide is a **CPP** or **Non-CPP**.
 2. **Uptake Efficiency** – Predict the cellular uptake efficiency of CPPs (**High/Low**).
-3. **PMO Delivery** – Predict the efficiency of CPPs in delivering PMOs (**Labels:** 1 = ≥ 3-fold improvement, 0 = < 3-fold improvement).
+3. **PMO Delivery** – Predict the efficiency of CPPs in delivering PMOs (**1 = ≥ 3-fold improvement, 0 = < 3-fold improvement**).
 
 You can run interactive tutorials for each task using the corresponding Jupyter Notebook:
 
 | Task                 | Tutorial Notebook                          |
 |----------------------|-------------------------------------------|
-| CPP Classification   | [CPP2Vec_Classification_Tutorial_Notebook.ipynb](CPP2Vec_Classification_Tutorial_Notebook.ipynb) |
-| Uptake Efficiency    | [CPP2Vec_Uptake_Efficiency_Tutorial_Notebook.ipynb](CPP2Vec_Uptake_Efficiency_Tutorial_Notebook.ipynb) |
-| PMO Delivery         | [CPP2Vec_PMO_Delivery_Tutorial_Notebook.ipynb](CPP2Vec_PMO_Delivery_Tutorial_Notebook.ipynb) |
+| CPP Classification   | [CPP2Vec_Classification_Tutorial_Notebook.ipynb](https://github.com/SSvolou/CPP2Vec/blob/main/Notebooks/CPP2Vec_Classification_Tutorial_Notebook.ipynb) |
+| Uptake Efficiency    | [CPP2Vec_Uptake_Efficiency_Tutorial_Notebook.ipynb](https://github.com/SSvolou/CPP2Vec/blob/main/Notebooks/CPP2Vec_Uptake_Efficiency_Tutorial_Notebook.ipynb) |
+| PMO Delivery         | [CPP2Vec_PMO_Delivery_Tutorial_Notebook.ipynb](https://github.com/SSvolou/CPP2Vec/blob/main/Notebooks/CPP2Vec_PMO_Delivery_Tutorial_Notebook.ipynb) |
 
 [![DOI](https://zenodo.org/badge/716505452.svg)](https://doi.org/10.5281/zenodo.15401028)
 
