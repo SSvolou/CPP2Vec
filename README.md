@@ -10,9 +10,9 @@ You can run interactive tutorials for each task using the corresponding Jupyter 
 
 | Task                 | Tutorial Notebook                          |
 |----------------------|-------------------------------------------|
-| CPP Classification   | [CPP2Vec_Classification_Tutorial_Notebook.ipynb](https://github.com/SSvolou/CPP2Vec/blob/main/Notebooks/CPP2Vec_Classification_Tutorial_Notebook.ipynb) |
-| Uptake Efficiency    | [CPP2Vec_Uptake_Efficiency_Tutorial_Notebook.ipynb](https://github.com/SSvolou/CPP2Vec/blob/main/Notebooks/CPP2Vec_Uptake_Efficiency_Tutorial_Notebook.ipynb) |
-| PMO Delivery         | [CPP2Vec_PMO_Delivery_Tutorial_Notebook.ipynb](https://github.com/SSvolou/CPP2Vec/blob/main/Notebooks/CPP2Vec_PMO_Delivery_Tutorial_Notebook.ipynb) |
+| **CPP Classification**   | [CPP2Vec_Classification_Tutorial_Notebook.ipynb](https://github.com/SSvolou/CPP2Vec/blob/main/Notebooks/CPP2Vec_Classification_Tutorial_Notebook.ipynb) |
+| **Uptake Efficiency**    | [CPP2Vec_Uptake_Efficiency_Tutorial_Notebook.ipynb](https://github.com/SSvolou/CPP2Vec/blob/main/Notebooks/CPP2Vec_Uptake_Efficiency_Tutorial_Notebook.ipynb) |
+| **PMO Delivery**         | [CPP2Vec_PMO_Delivery_Tutorial_Notebook.ipynb](https://github.com/SSvolou/CPP2Vec/blob/main/Notebooks/CPP2Vec_PMO_Delivery_Tutorial_Notebook.ipynb) |
 
 [![DOI](https://zenodo.org/badge/716505452.svg)](https://doi.org/10.5281/zenodo.15401028)
 
