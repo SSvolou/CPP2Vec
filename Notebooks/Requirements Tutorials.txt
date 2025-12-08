@@ -1,0 +1,6 @@
+Library versions used in this notebook:
+
+NumPy        : 1.23.5
+Pandas       : 2.0.3
+Gensim       : 4.3.3
+Pickle       : 4.0
