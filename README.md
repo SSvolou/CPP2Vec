@@ -1,12 +1,23 @@
 # CPP2Vec
-**CPP2Vec** is a **Word2Vec-based prediction framework** for **Cell-Penetrating Peptides (CPPs)**.
+
+## Overview
+**CPP2Vec** is a **Word2Vec-based prediction framework** for **Cell-Penetrating Peptides (CPPs)** prediction.
 It has been designed to handle three different tasks:
 
 1. **CPP Classification** – Predict whether a peptide is a **CPP** or **Non-CPP**.
 2. **Uptake Efficiency** – Predict the cellular uptake efficiency of CPPs (**High/Low**).
 3. **PMO Delivery** – Predict the efficiency of CPPs in delivering PMOs (**1 = ≥ 3-fold improvement, 0 = < 3-fold improvement**).
 
-You can run interactive tutorials for each task using the corresponding Jupyter Notebook:
+[![DOI](https://zenodo.org/badge/716505452.svg)](https://doi.org/10.5281/zenodo.15401028)
+
+## CPP2Vec-GenSet
+To address the limited sequence diversity, sparse biological grounding, and the still poorly understood mechanisms underlying CPPs uptake, we constructed **CPP2Vec-GenSet**, a hybrid dataset integrating computationally generated peptides with experimentally validated CPPs. The construction process is illustrated below.
+
+
+![CPP2Vec-GenSet](https://github.com/SSvolou/CPP2Vec/blob/main/CPP2Vec-GenSet_Construction.png)
+
+## Tutorial Notebooks 
+We provide task-specific Jupyter notebooks that demonstrate how to train, evaluate, and apply **CPP2Vec** models:
 
 | Task                 | Tutorial Notebook                          |
 |----------------------|-------------------------------------------|
@@ -14,7 +25,6 @@ You can run interactive tutorials for each task using the corresponding Jupyter 
 | **Uptake Efficiency**    | [CPP2Vec_Uptake_Efficiency_Tutorial_Notebook.ipynb](https://github.com/SSvolou/CPP2Vec/blob/main/Notebooks/CPP2Vec_Uptake_Efficiency_Tutorial_Notebook.ipynb) |
 | **PMO Delivery**         | [CPP2Vec_PMO_Delivery_Tutorial_Notebook.ipynb](https://github.com/SSvolou/CPP2Vec/blob/main/Notebooks/CPP2Vec_PMO_Delivery_Tutorial_Notebook.ipynb) |
 
-[![DOI](https://zenodo.org/badge/716505452.svg)](https://doi.org/10.5281/zenodo.15401028)
 
 ## Requirements
 The scripts are written in Python 3.8.8 (Anaconda Version==4.11.0) and run on Ubuntu 18.04.6 LTS (GNU/Linux 5.10.0-23-amd64 x86_64).
@@ -33,8 +43,13 @@ Pillow==9.3.0
 gensim==4.0.1
 ```
 ## Table of Contents
-- ./Data: the processed datasets that we used in our study & CPP2Vec-GenSet.
+- ./Data: the processed datasets that we used in our study.
 - ./Proposed models: all the models (Word2Vec and Machine Learning) we propose to predict unknown CPP sequences based on the task that is studied (CPP-Classification, Uptake-Efficiency and/or PMO-Delivery).
 - ./Notebooks: Jupyter notebooks that can be used to evaluate our proposed trained models & Tutorial Notebooks.
 - ./Results: includes the calculated evaluation metrics and PCA & UMAP plots for Validation and Test Datasets.
 - ./Custom Scripts: contains Python Scripts that we used to construct and evaluate our proposed models.
+- ./CPP2Vec-GenSet_Construction.png: Graphical overview of the construction of CPP2Vec-GenSet
+
+## Support
+Please report bugs or issues through the GitHub issue tracker. For any other inquiries, please contact us at:
+ssvolou@iit.demokritos.gr
