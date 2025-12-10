@@ -1,0 +1,2 @@
+;Sensitivity;Specificity;Accuracy;MCC;AUC;Precision;Recall;F1;AUPRC
+2;0.9096;0.9496;0.9313;0.8619;0.9734;0.9386;0.9096;0.9237;0.9739
