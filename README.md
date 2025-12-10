@@ -1,7 +1,7 @@
 # CPP2Vec
 
 ## Overview
-**CPP2Vec** is a **Word2Vec-based prediction framework** for **Cell-Penetrating Peptides (CPPs)** prediction.
+**CPP2Vec** is a **Word2Vec-based prediction framework** for **Cell-Penetrating Peptides (CPPs)**.
 It has been designed to handle three different tasks:
 
 1. **CPP Classification** – Predict whether a peptide is a **CPP** or **Non-CPP**.
