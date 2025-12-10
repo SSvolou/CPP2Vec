@@ -12,6 +12,7 @@ It has been designed to handle three different tasks:
 
 ## CPP2Vec-GenSet
 To address the limited sequence diversity, sparse biological grounding, and the still poorly understood mechanisms underlying CPPs uptake, we constructed **CPP2Vec-GenSet**, a hybrid dataset integrating computationally generated peptides with experimentally validated CPPs.
+
 The construction process is illustrated below.
 
 
