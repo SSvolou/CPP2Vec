@@ -52,6 +52,11 @@ gensim==4.0.1
 - ./Custom Scripts: contains Python Scripts that we used to construct and evaluate our proposed models.
 - ./CPP2Vec-GenSet_Construction.png: Graphical overview of the construction of CPP2Vec-GenSet
 
+## Citation
+- Stavroula Svolou, Vasileios Konstantakos, Anastasia Krithara, Georgios Paliouras, CPP2Vec: a Representation Learning Approach for Cell-Penetrating Peptides Prediction, bioRxiv, 2025.05. 15.654208, https://doi.org/10.1101/2025.05.15.654208
+
+- Svolou S, Konstantakos V, Krithara A, Paliouras G (2026) CPP2Vec: A representation learning approach for cell-penetrating peptides prediction. PLoS Comput Biol 22(7): e1014118. https://doi.org/10.1371/journal.pcbi.1014118 
+
 ## Support
 Please report bugs or issues through the GitHub issue tracker. For any other inquiries, please contact us at:
 ssvolou@iit.demokritos.gr
